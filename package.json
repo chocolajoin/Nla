@@ -1,0 +1,17 @@
+{
+  "name": "discord-stats-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot-worker.js",
+  "scripts": {
+    "start": "node bot-worker.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@supabase/supabase-js": "^2.38.0",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
