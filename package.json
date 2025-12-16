@@ -1,5 +1,5 @@
 {
-  "name": "discord-stats-bot",
+  "name": "discord-stats-bot-koyeb",
   "version": "1.0.0",
   "type": "module",
   "main": "bot-worker.js",
@@ -9,7 +9,7 @@
   "dependencies": {
     "discord.js": "^14.14.1",
     "@supabase/supabase-js": "^2.38.0",
-    "dotenv": "^16.4.5"
+    "express": "^4.18.2"
   },
   "engines": {
     "node": "18.x"
